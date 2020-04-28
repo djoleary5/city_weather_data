@@ -4,3 +4,6 @@ I've created a Python script to visualize the weather of 500+ cities across the 
 
 ## Selecting the cities
 To generate a random list of cities, we first generate 1000 random lattitude-longitude combinations and use the .nearest_city() function of the citipy library to find the nearest city and creating a list from the unique city names.
+
+## Scatter Plots
+* Temperature (F) vs. Latitude
