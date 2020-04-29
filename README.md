@@ -13,4 +13,5 @@ We use the OpenWeatherMap API to collect data about today's weather for each cit
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
 
