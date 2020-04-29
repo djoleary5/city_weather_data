@@ -8,3 +8,7 @@ To generate a random list of cities, we first generate 1000 random lattitude-lon
 ## Collecting the weather data
 We use the OpenWeatherMap API to collect data about today's weather for each city: `lattitude`, `longitude`, `temperature`, `cloudiness`, `humidity`, and `wind speed`.  A dataframe was then created and exported it to `cityWeather.csv`.
 
+
+## Scatter Plots
+* Temperature (F) vs. Latitude
+
