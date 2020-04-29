@@ -12,4 +12,5 @@ We use the OpenWeatherMap API to collect data about today's weather for each cit
 ## Scatter Plots
 * Temperature (F) vs. Latitude
 * Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
 
